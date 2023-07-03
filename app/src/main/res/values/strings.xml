@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="unit_converter_image">unit_converter_image</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="enter_numeric_units_below_that_nyou_want_to_convert">Enter numeric units below that\nyou want to convert</string>
+    <string name="result_will_be_displayed_here">Result will be displayed here</string>
+    <string name="km_m"><![CDATA[Km->m]]></string>
+    <string name="m_km"><![CDATA[m->Km]]></string>
+    <string name="u2103_u2109"><![CDATA[℃->℉]]></string>
+    <string name="u2109_u2103"><![CDATA[℉->℃]]></string>
+    <string name="kg_gm"><![CDATA[Kg->gm]]></string>
+    <string name="gm_kg"><![CDATA[gm->Kg]]></string>
+    <string name="hr_min"><![CDATA[hr->min]]></string>
+    <string name="min_hr"><![CDATA[min->hr]]></string>
+    <string name="min_s"><![CDATA[min->s]]></string>
+    <string name="s_hr"><![CDATA[s->hr]]></string>
+    <string name="reset">Reset</string>
+</resources>
